@@ -1,0 +1,28 @@
+[connection]
+id=Xperia Z3 Compact_c176 1
+uuid=7f79da7f-4680-437f-837d-8660d06f5633
+type=wifi
+permissions=
+secondaries=
+
+[wifi]
+mac-address=00:26:C6:3F:2A:8C
+mac-address-blacklist=
+mode=infrastructure
+seen-bssids=
+ssid=Xperia Z3 Compact_c176
+
+[wifi-security]
+auth-alg=open
+group=
+key-mgmt=wpa-psk
+pairwise=
+proto=
+
+[ipv4]
+dns-search=
+method=auto
+
+[ipv6]
+dns-search=
+method=auto

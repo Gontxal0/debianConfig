@@ -1,0 +1,19 @@
+[connection]
+id=Hotel Icaria
+uuid=fe1d827e-653c-4e43-a32b-49c46afb9434
+type=wifi
+timestamp=1422561118
+secondaries=0c21532b-12c3-4e87-a6a1-b8d260bf05f2;
+
+[wifi]
+ssid=Hotel Icaria
+mode=infrastructure
+mac-address=00:26:C6:3F:2A:8C
+seen-bssids=78:DA:6E:7B:C0:CC;00:3A:99:7C:BB:00;00:18:B9:2A:9D:B0;00:18:B9:2A:9D:70;00:3A:99:7C:BA:F0;00:3A:99:86:13:A0;00:3A:99:85:42:80;00:3A:99:86:18:50;00:18:BA:31:F6:E0;
+
+[ipv6]
+method=auto
+ip6-privacy=0
+
+[ipv4]
+method=auto

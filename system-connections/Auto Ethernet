@@ -1,0 +1,18 @@
+[ethernet]
+duplex=full
+mac-address=00:27:13:B1:87:99
+
+[connection]
+id=Auto Ethernet
+uuid=0e7655a6-6238-4ed3-9aba-75c50bb4c653
+type=ethernet
+timestamp=1422785781
+
+[ipv6]
+method=ignore
+ip6-privacy=0
+
+[ipv4]
+method=auto
+dns=8.8.4.4;208.67.222.220;
+may-fail=false

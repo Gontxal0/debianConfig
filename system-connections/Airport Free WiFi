@@ -1,0 +1,19 @@
+[connection]
+id=Airport Free WiFi
+uuid=f18bf452-e6ab-45ad-9c6b-1246b95648b1
+type=wifi
+timestamp=1422213920
+secondaries=0c21532b-12c3-4e87-a6a1-b8d260bf05f2;
+
+[wifi]
+ssid=Airport Free WiFi
+mode=infrastructure
+mac-address=00:26:C6:3F:2A:8C
+seen-bssids=9C:1C:12:86:CB:71;00:22:55:A3:F9:4A;9C:1C:12:86:CB:61;00:22:55:43:0F:95;
+
+[ipv6]
+method=auto
+ip6-privacy=0
+
+[ipv4]
+method=auto

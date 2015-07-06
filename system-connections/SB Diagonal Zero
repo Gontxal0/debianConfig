@@ -1,0 +1,19 @@
+[connection]
+id=SB Diagonal Zero
+uuid=776fdf74-7eb1-47df-bb25-56d0101e9628
+type=wifi
+timestamp=1420764603
+secondaries=0c21532b-12c3-4e87-a6a1-b8d260bf05f2;
+
+[wifi]
+ssid=SB Diagonal Zero
+mode=infrastructure
+mac-address=00:26:C6:3F:2A:8C
+seen-bssids=00:23:5E:1D:82:A1;00:23:33:78:E0:21;
+
+[ipv6]
+method=auto
+ip6-privacy=0
+
+[ipv4]
+method=auto
