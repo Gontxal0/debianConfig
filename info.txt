@@ -34,3 +34,4 @@ ROS
 gparted
 conky
 gddrescue
+nmap
