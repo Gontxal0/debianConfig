@@ -1,0 +1,23 @@
+# 
+
+# deb cdrom:[Debian GNU/Linux testing _Jessie_ - Official Snapshot amd64 NETINST Binary-1 20141031-16:13]/ jessie main
+
+#deb cdrom:[Debian GNU/Linux testing _Jessie_ - Official Snapshot amd64 NETINST Binary-1 20141031-16:13]/ jessie main
+
+deb http://ftp.es.debian.org/debian/ testing main contrib non-free
+#deb-src http://ftp.rediris.es/debian/ jessie main
+
+deb http://security.debian.org/ testing/updates main contrib non-free
+#deb-src http://security.debian.org/ jessie/updates main
+
+# jessie-updates, previously known as 'volatile'
+#deb http://ftp.debian.org/debian/ jessie-updates main contrib non-free
+#deb-src http://ftp.rediris.es/debian/ jessie-updates main
+
+#Debian Multimedia
+deb http://www.deb-multimedia.org testing main non-free 
+#deb http://www.las.ic.unicamp.br/pub/debian-multimedia/ testing main
+
+# jessie-backports, previously on backports.debian.org
+#deb http://ftp.rediris.es/debian/ jessie-backports main
+#deb-src http://ftp.rediris.es/debian/ jessie-backports main
