@@ -1,0 +1,9 @@
+*~
+node_modules
+/.idea
+npm-debug.log
+.project
+.git
+/varios.txt
+/.settings/
+placeForMe.sqlite

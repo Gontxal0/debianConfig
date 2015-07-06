@@ -1,0 +1,3 @@
+Package: cairo-dock* libgldi* 
+Pin: origin download.tuxfamily.org 
+Pin-Priority: 990

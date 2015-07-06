@@ -1,0 +1,39 @@
+# /etc/fstab: static file system information.
+#
+# Use 'blkid' to print the universally unique identifier for a
+# device; this may be used with UUID= as a more robust way to name devices
+# that works even if disks are added and removed. See fstab(5).
+#
+# <file system> <mount point>   <type>  <options>       <dump>  <pass>
+# / was on /dev/sda6 during installation
+UUID=48752fea-1f1c-4815-a6b1-3fd7071c9c3f /               jfs     noatime,errors=remount-ro 0       1
+# /boot was on /dev/sda2 during installation
+UUID=2a88000c-0104-4824-ae84-f818b6589fc6 /boot           ext2    noatime 0       2
+# /home was on /dev/sda7 during installation
+UUID=bd33da22-8ba5-4a6e-985f-d2b5efd81874 /home           jfs     noatime 0       2
+# /opt was on /dev/sda3 during installation
+#UUID=8c988eb7-1790-434b-9d1b-62362db9a5a9 /opt            jfs     noatime 0       2
+#Agregado para mudar /opt
+UUID=24ae9710-4ace-465c-80cd-1f12529cc2c4	/opt	  jfs	  noatime  0	   2
+
+# /var was on /dev/sda4 during installation
+#cambiado a /dev/sda3 para hacerle espacio al nuevo opt
+#UUID=476add9e-e11e-45cc-a308-06cd9c92cf14 /var            jfs     noatime 0       2
+UUID=63e0d309-318b-4750-a8ec-3b74333e350c	/var	  jfs	  noatime 0	  2
+#Swaps movidos porque no es necesario y crea comprobaciones raras.
+# swap was on /dev/sda5 during installation
+#UUID=c3881a89-5d7d-48b2-9c17-1b3b345f9694 none            swap    sw              0       0
+# swap was on /dev/sdb3 during installation
+#UUID=2df96f5e-4963-4e7c-b742-4a48da9522e2 none            swap    sw              0       0
+/dev/sr0        /media/cdrom0   udf,iso9660 user,noauto     0       0
+/dev/sdc1       /media/usb0     auto    rw,user,noauto  0       0
+/dev/sdc2       /media/usb1     auto    rw,user,noauto  0       0
+
+#agregado para tmpfs
+tmpfs	/tmp					tmpfs	noatime,nodiratime,size=1G,mode=1777	0 	0
+tmpfs	/var/spool				tmpfs	noatime,nodiratime,size=100M,mode=1777  0 	0
+tmpfs	/var/tmp   				tmpfs	noatime,nodiratime,size=100M,mode=1777  0 	0
+tmpfs	/home/gonzalo/.cache/mozilla/firefox 	tmpfs	noatime,nodiratime,size=100M,mode=1777  0 	0
+#tmpfs	/home/gonzalo/.mozilla/firefox		tmpfs	noatime,nodiratime,size=100M,mode=1777	0	0
+tmpfs	/home/gonzalo/.cache/midori 		tmpfs	noatime,nodiratime,size=100M,mode=1777  0 	0
+tmpfs	/var/cache/apt/archives			tmpfs	noatime,nodiratime,size=1G,mode=1777  	0 	0

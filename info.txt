@@ -1,0 +1,36 @@
+Páginas:
+https://wiki.debian.org/SSDOptimization
+http://geekland.eu/optimizar-el-rendimiento-con-zram/
+http://www.phoronix.com/scan.php?page=article&item=linux_316_iosched&num=1
+https://wiki.archlinux.org/index.php/Solid_State_Drives
+http://blog.phenobarbital.info/2015/01/sabias-que-como-embellecer-rapidamente-vim-en-debian-y-derivados/
+https://github.com/amix/vimrc
+https://github.com/robbyrussell/oh-my-zsh
+
+
+Lista Software:
+Pila Mean
+git
+7-zip
+Atom beautifier
+screenshot
+vim tuneado
+zsh tuneado
+sublime beautifier
+Firefox (adblock plus, 
+        download yuotube Videos as MP4, 
+        DownThemAll,
+        https-everywhere,
+        I don't care about cookies,
+        Location guard,
+        Omnibar)
+htop
+okular
+simpleScan
+vlc
+unetbooting
+terminator
+ROS
+gparted
+conky
+

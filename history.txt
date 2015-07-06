@@ -1,0 +1,1000 @@
+ 1005  npm start
+ 1006  vim controllers/student_controller.js
+ 1007  npm install 
+ 1008  npm start
+ 1009  vim controllers/student_controller.js
+ 1010  npm start
+ 1011  vim controllers/student_controller.js
+ 1012  npm start
+ 1013  vim controllers/student_controller.js
+ 1014  npm start
+ 1015  vim controllers/student_controller.js
+ 1016  npm start
+ 1017  vim controllers/student_controller.js
+ 1018  npm start
+ 1019  vim controllers/student_controller.js
+ 1020  npm start
+ 1021  npm install --save sequelize
+ 1022  npm install --save sequelize@3.0.0
+ 1023  npm start
+ 1024  vim controllers/student_controller.js
+ 1025  npm start
+ 1026  vim controllers/student_controller.js
+ 1027  npm start
+ 1028  npm install 
+ 1029  npm start
+ 1030  sudo npm start
+ 1031  vim package.json 
+ 1032  npm start
+ 1033  vim controllers/student_controller.js
+ 1034  npm start
+ 1035  vim controllers/student_controller.js
+ 1036  npm start
+ 1037  vim controllers/student_controller.js
+ 1038  npm start
+ 1039  vim controllers/student_controller.js
+ 1040  npm start
+ 1041  vim controllers/student_controller.js 
+ 1042  npm start
+ 1043  vim controllers/student_controller.js 
+ 1044  npm start
+ 1045  vim controllers/student_controller.js 
+ 1046  npm start
+ 1047  gc
+ 1048  ga controllers/student_controller.js 
+ 1049  ga routes/index.js 
+ 1050  ga views/student/studentRegistration.ejs 
+ 1051  git push origin 
+ 1052  git commit 
+ 1053  git pull origin master
+ 1054  git add controllers/session_controller.js 
+ 1055  git add models/models.js 
+ 1056  git add package.json 
+ 1057  git commit 
+ 1058  git pull origin master
+ 1059  npm install sequelize@3.2.0
+ 1060  pwd
+ 1061  mkdir -p /Servers/apache2/bin/bootstrap.jar
+ 1062  sudo mkdir -p /Servers/apache2/bin/bootstrap.jar
+ 1063  cd /Servers/apache2/bin/bootstrap.jar
+ 1064  cd ..
+ 1065  ls
+ 1066  rm bootstrap.jar/
+ 1067  rm bootstrap.jar/ -r
+ 1068  sudo rm bootstrap.jar/ -r
+ 1069  ls -a
+ 1070  ls -al
+ 1071  chown gonzalo:gonzalo /Servers/ -R
+ 1072  sudo chown gonzalo:gonzalo /Servers/ -R
+ 1073  ln -s /home/gonzalo/Documents/ISOF2/workspace_sts/Servers/apache2/bin/bootstrap.jar  /Servers/apache2/bin/
+ 1074  cd ..
+ 1075  rm -r bin/
+ 1076  ln -s /home/gonzalo/Documents/ISOF2/workspace_sts/Servers/apache2/bin  /Servers/apache2/
+ 1077  ifconfig
+ 1078  sudo ifconfig
+ 1079  nmap localhost 
+ 1080  nmap
+ 1081  nmap localhost 
+ 1082  nmap 192.168.1.39
+ 1083  nmap localhost 
+ 1084  nmap 192.168.1.39
+ 1085  start rmiregistry 
+ 1086  rmiregistry 
+ 1087  nmap localhost 
+ 1088  aptitude search java
+ 1089  aptitude show java8-runtime java8-jdk
+ 1090  sudo aptitude install java8-runtime java8-jdk
+ 1091  java -version
+ 1092  sudo update-alternatives --config java
+ 1093  ls
+ 1094  cd Documents/
+ 1095  ls
+ 1096  mkdir ISOF2
+ 1097  cd ISOF2/
+ 1098  wget --retry-connrefused -c http://dist.springsource.com/release/STS/3.6.4.RELEASE/dist/e4.4/spring-tool-suite-3.6.4.RELEASE-e4.4.2-linux-gtk-x86_64.tar.gz
+ 1099  ls
+ 1100  cd /home/gonzalo/Documents/ISOF2/sts-bundle/sts-3.6.4.RELEASE
+ 1101  ls
+ 1102  ./STS &
+ 1103  aptitude search openjdk
+ 1104  sudo aptitude install openjdk-8-jre
+ 1105  htop
+ 1106  pwd
+ 1107  sudo aptitude install phpmyadmin mysql-server mysql-client
+ 1108  sudo aptitude update 
+ 1109  sudo aptitude install phpmyadmin mysql-server mysql-client
+ 1110  nmap localhost
+ 1111  mysql -u root -p
+ 1112  cd ..
+ 1113  ls
+ 1114  cd sts-bundle/
+ 1115  ls
+ 1116  cd sts-3.6.4.RELEASE/
+ 1117  ls
+ 1118  ./STS 
+ 1119  sudo update-alternatives --config java
+ 1120  ./STS 
+ 1121  ping 8.8.8.8
+ 1122  vim models/models.js 
+ 1123  vim package.json 
+ 1124  vim routes/index.js 
+ 1125  gs
+ 1126  cd ..
+ 1127  git clone https://github.com/MagnaTeam/practicas15.git
+ 1128  ls
+ 1129  cd practicas15/
+ 1130  git init
+ 1131  git log --oneline
+ 1132  npm install 
+ 1133  npm start
+ 1134  vim routes/index.js 
+ 1135  npm start
+ 1136  vim app.js 
+ 1137  npm start
+ 1138  git add .
+ 1139  gc
+ 1140  git push 
+ 1141  vim models/user.js 
+ 1142  gs
+ 1143  ga .
+ 1144  gc
+ 1145  git pull
+ 1146  vim .gitignore placeForMe.sqlite
+ 1147  vim .gitignore 
+ 1148  git status 
+ 1149  git add .gitignore 
+ 1150  git commit 
+ 1151  git status 
+ 1152  git pull 
+ 1153  rm placeForMe.sqlite 
+ 1154  git pull 
+ 1155  vim .gitignore 
+ 1156  git rm controllers/course_controller.js~
+ 1157  git add .
+ 1158  git commit 
+ 1159  vim .gitignore 
+ 1160  cd ..
+ 1161  cd Documents/
+ 1162  ls
+ 1163  cd magnasis/
+ 1164  ls
+ 1165  cd practicas15/
+ 1166  ls
+ 1167  gs
+ 1168  ga models/models.js 
+ 1169  ga routes/index.js 
+ 1170  ga package.json 
+ 1171  gc
+ 1172  git rm controllers/session_controller.js 
+ 1173  gc
+ 1174  gs
+ 1175  ga .gitignore 
+ 1176  gc
+ 1177  git pull origin master
+ 1178  git log --oneline
+ 1179  gs
+ 1180  gc
+ 1181  ga controllers/session_controller.js
+ 1182  touch controllers/session_controller.js
+ 1183  ga controllers/session_controller.js
+ 1184  gc
+ 1185  git pull origin master
+ 1186  gs
+ 1187  cat controllers/session_controller.js 
+ 1188  git log --oneline
+ 1189  vim controllers/session_controller.js 
+ 1190  git checkout 5a8
+ 1191  git checkout 5a8c
+ 1192  cat controllers/session_controller.js 
+ 1193  cat controllers/session_controller.js >> ../session_controller.js.new
+ 1194  git checkout master 
+ 1195  cp ../session_controller.js.new controllers/session_controller.js 
+ 1196  cat controllers/session_controller.js 
+ 1197  gs
+ 1198  ga controllers/session_controller.js 
+ 1199  gc
+ 1200  gc --amend
+ 1201  gs
+ 1202  git push 
+ 1203  npm start
+ 1204  git log --online
+ 1205  git log 
+ 1206  git log --oneline
+ 1207  git checkout d61317f
+ 1208  npm start
+ 1209  git log --oneline
+ 1210  git checkout 6668
+ 1211  git checkout 5a8c
+ 1212  git checkout f331697
+ 1213  gs
+ 1214  ga routes/index.js 
+ 1215  gc 
+ 1216  git checkout 5a8c
+ 1217  npm start
+ 1218  npm install 
+ 1219  npm start
+ 1220  git log --oneline 
+ 1221  cd ..
+ 1222  npm start
+ 1223  cd practicas15/
+ 1224  npm start
+ 1225  vim controllers/session_controller.js 
+ 1226  ls
+ 1227  ls controllers/
+ 1228  vim routes/index.js 
+ 1229  npm install 
+ 1230  vim app.js 
+ 1231  vim bin/www 
+ 1232  vim app.js 
+ 1233  vim routes/index.js 
+ 1234  ls controllers
+ 1235  cd ..
+ 1236  cd practicas15/
+ 1237  vim views/student/studentRegistration.ejs 
+ 1238  vim controllers/student_controller.js 
+ 1239  htop
+ 1240  exit
+ 1241  exit
+ 1242  git pull 
+ 1243  cd ..
+ 1244  mkdir mailer
+ 1245  cd mailer/
+ 1246  npm install nodemailer
+ 1247  ls
+ 1248  cd node_modules/
+ 1249  ls
+ 1250  cd ..
+ 1251  ls
+ 1252  cd ..
+ 1253  ls
+ 1254  sudo rm -r mailer/
+ 1255  cd practicas15/
+ 1256  npm install nodemailer
+ 1257  sqlitebrowser &
+ 1258  git status 
+ 1259  git add .
+ 1260  gc
+ 1261  git pull 
+ 1262  vim controllers/manage_controller.js 
+ 1263  git status 
+ 1264  git add controllers/manage_controller.js 
+ 1265  git commit 
+ 1266  git status 
+ 1267  git pull 
+ 1268  git push 
+ 1269  sqlitebrowser &
+ 1270  vim .gitignore 
+ 1271  gs
+ 1272  ga .
+ 1273  gc
+ 1274  git pull 
+ 1275  git push 
+ 1276  vim .gitignore 
+ 1277  exit
+ 1278  cd Documents/magnasis/practicas15/
+ 1279  ls
+ 1280  git status 
+ 1281  git pull 
+ 1282  npm start
+ 1283  nmap localhost 
+ 1284  pkill npm
+ 1285  nmap localhost 
+ 1286  pkill apache2 
+ 1287  sudo pkill apache2 
+ 1288  nmap localhost 
+ 1289  npm start
+ 1290  sudo apt-get install libcap2-bin
+ 1291  ping 8.8.8.8
+ 1292  sudo apt-get install libcap2-bin
+ 1293  ping www.google.com
+ 1294  sudo apt-get install libcap2-bin
+ 1295  npm start
+ 1296  npm install pm2 -g
+ 1297  npm start
+ 1298  npm install node-uuid
+ 1299  npm start
+ 1300  vim .gitignore 
+ 1301  git add package.json 
+ 1302  vim package.json 
+ 1303  npm install --save
+ 1304  exit
+ 1305  sudo sh /opt/chMac.sh 
+ 1306  sudo setcap cap_net_bind_service=+ep /usr/local/bin/node
+ 1307  sudo su
+ 1308  exit
+ 1309  htop
+ 1310  exit
+ 1311  vim .bashrc 
+ 1312  vim /etc/environment 
+ 1313  vim /etc/profile
+ 1314  vim /etc/profile.d/vte.sh 
+ 1315  vim /etc/profile.d/bash_completion.sh 
+ 1316  vim /etc/
+ 1317  vim /etc/
+ 1318  aptitude search linux-image linux-header
+ 1319  sudo aptitude purge linux-headers-4.0-5.dmz.2-liquorix-amd64 linux-image-4.0-5.dmz.2-liquorix-amd64 && sudo aptitude autoclean && sudo aptitude install -f && sudo update-grub2 
+ 1320  exit
+ 1321  npm star
+ 1322  npm start
+ 1323  exit
+ 1324  cd Documents/magnasis/practicas15/
+ 1325  ls
+ 1326  npm start
+ 1327  nmap localhost 
+ 1328  pkill apache2 
+ 1329  sudo pkill apache2 
+ 1330  nmap localhost 
+ 1331  npm start
+ 1332  git status 
+ 1333  ga .
+ 1334  gc
+ 1335  git status 
+ 1336  git pull 
+ 1337  gs
+ 1338  ga .
+ 1339  gc
+ 1340  gs
+ 1341  npm start
+ 1342  gs
+ 1343  ga .
+ 1344  gc
+ 1345  gs
+ 1346  git pull 
+ 1347  git log --oneline
+ 1348  git status 
+ 1349  git pull 
+ 1350  git push 
+ 1351  git status 
+ 1352  gc
+ 1353  gp
+ 1354  git pull
+ 1355  npm start
+ 1356  ls
+ 1357  ks -l
+ 1358  ls -l
+ 1359  sudo mkdir pelis
+ 1360  cd pelis/
+ 1361  ls
+ 1362  ls -l
+ 1363  ls -la
+ 1364  cd ..
+ 1365  sudo chown gonzalo:carmen pelis/
+ 1366  cd pelis/
+ 1367  ls
+ 1368  ls -a
+ 1369  ls -al
+ 1370  npm start 
+ 1371  pkill apache2 
+ 1372  sudo pkill apache2 
+ 1373  npm start 
+ 1374  aptitude search mate
+ 1375  aptitude show mate-terminal
+ 1376  sudo mv /usr/bin/mate-terminal /usr/bin/mate-terminal.old
+ 1377  ln -s /usr/bin/terminator /usr/bin/mate-terminal
+ 1378  sudo ln -s /usr/bin/terminator /usr/bin/mate-terminal
+ 1379  exit
+ 1380  sudo mv sublime_text_3 /opt/sublime_text
+ 1381  ./STS 
+ 1382  cd /opt/FileZilla3/
+ 1383  ls
+ 1384  cd bin/
+ 1385  ls
+ 1386  ./filezilla 
+ 1387  exit
+ 1388  cd ~/Documents/magnasis/practicas15/
+ 1389  ls
+ 1390  ls -al
+ 1391  vim .gitignore 
+ 1392  vim bin/www 
+ 1393  exit
+ 1394  cp .env ../teamjon/practicas15/
+ 1395  npm start
+ 1396  ls
+ 1397  git pull 
+ 1398  ls -l
+ 1399  mkdir /usr/share/lab8
+ 1400  sudo mkdir /usr/share/lab8
+ 1401  ln -s /usr/share/lab8 .
+ 1402  ls
+ 1403  ls -l
+ 1404  ls /usr/share/lab8 -la
+ 1405  ls /usr/share/lab -la
+ 1406  ls /usr/share/lab? -la
+ 1407  ls /usr/share/lab* -la
+ 1408  cd /usr/share/
+ 1409  ls
+ 1410  ls -la
+ 1411  chown gonzalo:carmen lab8/ -R
+ 1412  sudo chown gonzalo:carmen lab8/ -R
+ 1413  sudo chmod 666 lab8/ -R
+ 1414  ls -la
+ 1415  sudo chmod 765 lab8/ -R
+ 1416  ls -la
+ 1417  sudo chmod 755 lab8/ -R
+ 1418  ls -la
+ 1419  aptitude search xdebug
+ 1420  aptitude search zend
+ 1421  sudo aptitude install php5-xdebug
+ 1422  ls /usr/bin/php
+ 1423  ls /usr/bin/php -l
+ 1424  ls /usr/bin/php5 -l
+ 1425  sudo find / -name php.ini
+ 1426  sudo vim /etc/php5/apache2/php.ini 
+ 1427  sudo vim /etc/php5/cli/php.ini 
+ 1428  ls /opt/
+ 1429  sudo mv /opt/sublime_text /opt/sublime_text_old
+ 1430  aptitude search filezilla
+ 1431  sudo find / -name filezilla
+ 1432  cd ~
+ 1433  cd Documents/magnasis/practicas15/
+ 1434  ls
+ 1435  pkill apache2 
+ 1436  sudo pkill apache2 
+ 1437  npm start
+ 1438  gs
+ 1439  ls
+ 1440  rm placeForMe.sqlite 
+ 1441  git push 
+ 1442  git pull 
+ 1443  npm start
+ 1444  vim controllers/student_controller.js 
+ 1445  npm start 
+ 1446  git checkout --bdf910b
+ 1447  git checkout bdf910b
+ 1448  git checkout --controllers/student_controller.js
+ 1449  gc
+ 1450  git add .
+ 1451  gc
+ 1452  git  bdf910b
+ 1453  git status
+ 1454  git log --oneline
+ 1455  git checkout master
+ 1456  gs
+ 1457  git log --oneline 
+ 1458  git revert 9c796f6
+ 1459  gs
+ 1460  git log --oneline 
+ 1461  git reset --hard bdf910b
+ 1462  gs
+ 1463  npm start
+ 1464  gs
+ 1465  git push 
+ 1466  git push --help
+ 1467  git push -f
+ 1468  vim bin/www 
+ 1469  vim .env 
+ 1470  npm start
+ 1471  git log --oneline 
+ 1472  npm start
+ 1473  git log --oneline 
+ 1474  git status
+ 1475  git checkout bin/www controllers/student_controller.js routes/index.js
+ 1476  gs
+ 1477  git pull 
+ 1478  npm start
+ 1479  vim bin/www 
+ 1480  npm start
+ 1481  ga .
+ 1482  gc
+ 1483  git pull 
+ 1484  ga
+ 1485  gs
+ 1486  ga .
+ 1487  gc
+ 1488  gs
+ 1489  npm start
+ 1490  ga .
+ 1491  gc
+ 1492  git pull 
+ 1493  gs
+ 1494  npm start
+ 1495  gs
+ 1496  git pull 
+ 1497  npm start
+ 1498  ga .
+ 1499  gc
+ 1500  git pull 
+ 1501  gs
+ 1502  ga controllers/student_controller.js 
+ 1503  gc
+ 1504  npm start
+ 1505  gs
+ 1506  ga .
+ 1507  gc
+ 1508  git pull 
+ 1509  ga .
+ 1510  gc
+ 1511  npm start
+ 1512  gs
+ 1513  ga .
+ 1514  gc
+ 1515  git pull 
+ 1516  git push
+ 1517  heroku login
+ 1518  git push
+ 1519  npm start
+ 1520  ga .
+ 1521  gc
+ 1522  git pull 
+ 1523  git push
+ 1524  git pull 
+ 1525  vim bin/www 
+ 1526  npm start
+ 1527  cd ..
+ 1528  ls
+ 1529  mkdir teamjon
+ 1530  cd teamjon/
+ 1531  git clone https://github.com/jonga15/practicas15.git
+ 1532  npm start 
+ 1533  npm install
+ 1534  LS
+ 1535  git clone https://github.com/jonga15/practicas15.git
+ 1536  LS
+ 1537  ls
+ 1538  cd practicas15/
+ 1539  ls
+ 1540  npm install
+ 1541  npm start
+ 1542  vim bin/www 
+ 1543  vim .env
+ 1544  npm start
+ 1545  htop
+ 1546  ls
+ 1547  cd Documents/
+ 1548  ls
+ 1549  cd magnasis/
+ 1550  ls
+ 1551  cd practicas15/
+ 1552  ls
+ 1553  cd ,,
+ 1554  cd ..
+ 1555  cd teamjon/practicas15/
+ 1556  git pull 
+ 1557  npm start
+ 1558  ls 
+ 1559  ls -al
+ 1560  vim bin/www 
+ 1561  rm placeForMe.sqlite 
+ 1562  npm start
+ 1563  vim models/models.js 
+ 1564  npm start
+ 1565  vim models/models.js 
+ 1566  npm start
+ 1567  vim models/models.js 
+ 1568  ls -la
+ 1569  npm start
+ 1570  npm install 
+ 1571  npm start
+ 1572  ls
+ 1573  cp ../../practicas15/.env .
+ 1574  npm start
+ 1575  vim .env 
+ 1576  foreman start
+ 1577  pkill apache2 
+ 1578  sudo pkill apache2 
+ 1579  foreman start
+ 1580  ls
+ 1581  vim app.js 
+ 1582  ecit
+ 1583  exit
+ 1584  cd ../..
+ 1585  ls
+ 1586  cd practicas15/
+ 1587  git pull 
+ 1588  gs
+ 1589  ga .
+ 1590  gc
+ 1591  git pull
+ 1592  gc
+ 1593  git pull
+ 1594  ls
+ 1595  vim .gitignore 
+ 1596  git pull
+ 1597  git pull --force
+ 1598  git pull --f
+ 1599  git pull --help
+ 1600  git pull 
+ 1601  gs
+ 1602  vim .gitignore 
+ 1603  gs
+ 1604  vim .gitignore 
+ 1605  node
+ 1606  sudo aptitude update && sudo aptitude full-upgrade 
+ 1607  ls -l /lib/x86_64-linux-gnu/libgcrypt.so.20
+ 1608  ls -l /lib/x86_64-linux-gnu/libgcrypt.so.20.0.3 
+ 1609  sudo ln -s /lib/x86_64-linux-gnu/libgcrypt.so.20.0.3 /lib/x86_64-linux-gnu/libgcrypt.so.11
+ 1610  sudo ln -s /lib/x86_64-linux-gnu/libgcrypt.so.20 /lib/x86_64-linux-gnu/libgcrypt.so.11
+ 1611  rm /lib/x86_64-linux-gnu/libgcrypt.so.11
+ 1612  sudo rm /lib/x86_64-linux-gnu/libgcrypt.so.11
+ 1613  sudo ln -s /lib/x86_64-linux-gnu/libgcrypt.so.20 /lib/x86_64-linux-gnu/libgcrypt.so.11
+ 1614  exit
+ 1615  sudo find / -name libgcrypt.so.20
+ 1616  sudo find / -name GCRYPT_
+ 1617  exit
+ 1618  sudo dpkg -i Brackets.1.3.Extract.64-bit.deb 
+ 1619  sudo aptitude install libgcrypt11-dev 
+ 1620  sudo chown -R root:root Brackets.1.3.Extract.64-bit/
+ 1621  sudo dpkg-deb --build Brackets.1.3.Extract.64-bit
+ 1622  sudo dpkg -i Brackets.Release.1.2.64-bit.deb
+ 1623  sudo dpkg -i Brackets.1.3.Extract.64-bit.deb 
+ 1624  sudo aptitude install libgcrypt11-dev 
+ 1625  sudo aptitude install libgcrypt11-dev libgcrypt20
+ 1626  sudo aptitude search libgcrypt
+ 1627  brackets 
+ 1628  md5sum DISCourse2015.tar 
+ 1629  md5sum eclipse-modeling-mars-R-linux-gtk-x86_64.tar.gz 
+ 1630  cd ..
+ 1631  cd firefox/
+ 1632  mv ../../Documents/
+ 1633  mv eclipse-modeling-mars-R-linux-gtk-x86_64.tar.gz ../../Documents/
+ 1634  cd ~/Documents/
+ 1635  ls
+ 1636  mkdir DIS
+ 1637  mv eclipse-modeling-mars-R-linux-gtk-x86_64.tar.gz DIS
+ 1638  ls
+ 1639  ls DIS/
+ 1640  cd DIS/
+ 1641  ls
+ 1642  tar -xfvz eclipse-modeling-mars-R-linux-gtk-x86_64.tar.gz 
+ 1643  tar -xvfz eclipse-modeling-mars-R-linux-gtk-x86_64.tar.gz 
+ 1644  tar -xvf eclipse-modeling-mars-R-linux-gtk-x86_64.tar.gz 
+ 1645  ls
+ 1646  rm eclipse-modeling-mars-R-linux-gtk-x86_64.tar.gz 
+ 1647  cd eclipse/
+ 1648  ls
+ 1649  ./eclipse &
+ 1650  pkill 4929
+ 1651  ./eclipse &
+ 1652  xkill 
+ 1653  ./eclipse &
+ 1654  ls
+ 1655  cd Documents/magnasis/
+ 1656  mkdir old
+ 1657  mv practicas15 old/
+ 1658  mv teamjon/ old/
+ 1659  git clone https://github.com/MagnaSIS/practicas15.git
+ 1660  ls
+ 1661  cd practicas15/
+ 1662  npm install 
+ 1663  npm start
+ 1664  cd ~
+ 1665  wget https://sede.educacion.gob.es/dms/catalogo-tramites/becas-ayudas-subvenciones/movilidad/de-estudiantes/erasmus-es/2014-list-provi-concesion-erasmus-es.pdf
+ 1666  wget https://sede.educacion.gob.es/dms/catalogo-tramites/becas-ayudas-subvenciones/movilidad/de-estudiantes/erasmus-es/2014-list-provi-concesion-erasmus-es.pdf -f
+ 1667  wget https://sede.educacion.gob.es/dms/catalogo-tramites/becas-ayudas-subvenciones/movilidad/de-estudiantes/erasmus-es/2014-list-provi-concesion-erasmus-es.pdf --force
+ 1668  cd Documents/
+ 1669  ls
+ 1670  cd magnasis/
+ 1671  ls
+ 1672  cd practicas15/
+ 1673  ls
+ 1674  npm start
+ 1675  cd ../..
+ 1676  cd ..
+ 1677  cd Downloads/firefox/
+ 1678  dpkg -i atom-amd64.deb 
+ 1679  sudo dpkg -i atom-amd64.deb 
+ 1680  aptitude search atom
+ 1681  cd Documents/magnasis/practicas15/
+ 1682  git pull 
+ 1683  npm install
+ 1684  npm start
+ 1685  git pull 
+ 1686  git commit -m "comparativa de correos"
+ 1687  git add .
+ 1688  git commit --apend
+ 1689  git commit --amend
+ 1690  git commit -m "comparativa de correos"
+ 1691  git status
+ 1692  git pull 
+ 1693  git add .
+ 1694  git commit -m "comparativa de correos"
+ 1695  git pull 
+ 1696  npm start
+ 1697  git status 
+ 1698  ga .
+ 1699  gc
+ 1700  git pull 
+ 1701  ga .
+ 1702  gc
+ 1703  git push 
+ 1704  npm start
+ 1705  cd ..
+ 1706  ls
+ 1707  cd old/
+ 1708  ls
+ 1709  cd practicas15/
+ 1710  ls
+ 1711  git pull 
+ 1712  touch hola
+ 1713  ga .
+ 1714  gc
+ 1715  git push 
+ 1716  cd ..
+ 1717  ls
+ 1718  cd practicas15/
+ 1719  git status 
+ 1720  git add .
+ 1721  gc
+ 1722  git status
+ 1723  git pull 
+ 1724  npm start
+ 1725  git status 
+ 1726  git add .
+ 1727  git commit -m "Merge Hector, Consolidacion igualdad password"
+ 1728  git status 
+ 1729  git pull 
+ 1730  git push 
+ 1731  exit
+ 1732  git status 
+ 1733  git log --oneline 
+ 1734  git pull origin master
+ 1735  npm start 
+ 1736  git status
+ 1737  git log --oneline
+ 1738  git log
+ 1739  git reset --hard 6690
+ 1740  npm start
+ 1741  git log --oneline
+ 1742  git checkout origin/master
+ 1743  npm start
+ 1744  git checkout master
+ 1745  git log
+ 1746  git checkout origin/master 
+ 1747  git log
+ 1748  git fetch origin master
+ 1749  git log
+ 1750  git remote -v
+ 1751  git status
+ 1752  git checkout origin/master 
+ 1753  git status
+ 1754  git log
+ 1755  git diff master
+ 1756  git checkout master
+ 1757  npm start
+ 1758  git log controllers/student_controller.js
+ 1759  git checkout origin/master 
+ 1760  git log controllers/student_controller.js
+ 1761  git diff efe5 controllers/student_controller.js
+ 1762  git status
+ 1763  git log
+ 1764  git diff controllers/student_controller.js
+ 1765  git log controllers/student_controller.js
+ 1766  git diff 01554 controllers/student_controller.js
+ 1767  git diff 015543b controllers/student_controller.js
+ 1768  git diff efe58 controllers/student_controller.js
+ 1769  git status
+ 1770  git checkout master
+ 1771  git status
+ 1772  git log
+ 1773  git pull origin master
+ 1774  git checkout master controllers/student_controller.js
+ 1775  npm start
+ 1776  git log controllers/session_controller.js
+ 1777  git diff 45e04 controllers/session_controller.js
+ 1778  npm start
+ 1779  nmap localhost
+ 1780  htop
+ 1781  ps -aux | grep npm
+ 1782  pkill 29104
+ 1783  nmap localhost
+ 1784  sudo pkill 29104
+ 1785  nmap localhost
+ 1786  pkill npm
+ 1787  nmap localhost
+ 1788  kill np
+ 1789  sudo kill 29104
+ 1790  nmap localhost
+ 1791  npm start
+ 1792  exit
+ 1793  cd Documents/magnasis/practicas15/
+ 1794  ls
+ 1795  git pull 
+ 1796  git log --oneline
+ 1797  git checkout ab21
+ 1798  git checkout ab218
+ 1799  git checkout 954c
+ 1800  git checkout 5610
+ 1801  git checkout e80b
+ 1802  git checkout 1235
+ 1803  git checkout ee75
+ 1804  git log --oneline
+ 1805  git checkout 9dfc
+ 1806  git log  9dfc2
+ 1807  git log --oneline 
+ 1808  git checkout master 
+ 1809  git log --oneline 
+ 1810  git checkout 8a22fcb
+ 1811  git log 
+ 1812  git checkout ee75e55
+ 1813  git checkout master
+ 1814  git pull 
+ 1815  git status 
+ 1816  git add .
+ 1817  git pull
+ 1818  git push 
+ 1819  npm start 
+ 1820  git add .
+ 1821  gc
+ 1822  git pull 
+ 1823  git push 
+ 1824  npm start 
+ 1825  npm start
+ 1826  git pull 
+ 1827  git add .
+ 1828  gc
+ 1829  npm start
+ 1830  git pull 
+ 1831  npm start
+ 1832  git status
+ 1833  git diff head origin/master controllers/student_controller.js
+ 1834  git diff origin/master controllers/student_controller.js
+ 1835  npm start
+ 1836  git add .
+ 1837  gc
+ 1838  git status 
+ 1839  git log 
+ 1840  npm start
+ 1841  git status
+ 1842  git diff origin/master controllers/student_controller.js
+ 1843  npm start
+ 1844  git diff origin/master controllers/student_controller.js
+ 1845  npm start
+ 1846  npm status
+ 1847  npm start
+ 1848  cd ..
+ 1849  cd login_bueno/
+ 1850  cd practicas15/
+ 1851  ls
+ 1852  npm install 
+ 1853  git status
+ 1854  npm start
+ 1855  git status
+ 1856  cd Documents/magnasis/registro_bueno/
+ 1857  ls
+ 1858  git clone https://github.com/MagnaSIS/practicas15.git
+ 1859  cd practicas15/
+ 1860  ls
+ 1861  npm install 
+ 1862  npm start
+ 1863  git status 
+ 1864  git add .
+ 1865  exit
+ 1866  cd ..
+ 1867  ls
+ 1868  sudo chown gonzalo:carmen gonzalo -R
+ 1869  exit
+ 1870  sudo aptitude purge linux-image-4.0-5.dmz.3-liquorix-amd64 linux-image-4.0-6.dmz.1-liquorix-amd64 linux-headers-4.0-5.dmz.3-liquorix-amd64 linux-headers-4.0-6.dmz.1-liquorix-amd64 && sudo aptitude autoclean && sudo update-grub2 && sudo aptitude install -f
+ 1871  sudo update-grub2 && sudo aptitude install -f
+ 1872  mate-terminal.old 
+ 1873  sudo gparted
+ 1874  sudo fsck.jfs --help
+ 1875  sudo fsck.jfs -a /dev/sdc5 
+ 1876  sudo fsck.jfs -a /dev/sdc3
+ 1877  sudo fsck.jfs -a /dev/sdc4
+ 1878  mkdir /media/usb1/two
+ 1879  sudo mkdir /media/usb1/two
+ 1880  sudo mkdir /media/usb1/four
+ 1881  sudo cp /media/gonzalo/four/* /media/usb1/four/
+ 1882  sudo cp /media/gonzalo/four/* /media/usb1/four/ -R
+ 1883  sudo mkdir /media/usb1/three
+ 1884  sudo cp /media/gonzalo/four/* /media/usb1/three/ -R
+ 1885  sudo ntfsfix /dev/sdb1 
+ 1886  sudo ntfsfix /dev/sdb2
+ 1887  sudo ntfsfix /dev/sdb3
+ 1888  sudo ntfsfix /dev/sdb4
+ 1889  aptitude search ntfs
+ 1890  aptitude show scrounge-ntfs ntfs-config 
+ 1891  sudo aptitude install scrounge-ntfs ntfs-config 
+ 1892  aptitude search linux-image
+ 1893  aptitude search linux-headers
+ 1894  sudo aptitude purge linux-image-4.0-5.dmz.3-liquorix-amd64 linux-image-4.0-6.dmz.1-liquorix-amd64 linux-headers-4.0-5.dmz.3-liquorix-amd64 linux-headers-4.0-6.dmz.1-liquorix-amd64 && sudo aptitude autoclean && sudo update-grub2 && sudo aptitude install -f
+ 1895  sudo cp /media/gonzalo/two/* /media/usb1/two/ -R
+ 1896  dmesg 
+ 1897  sudo tail -f /var/log/syslog
+ 1898  htop
+ 1899  cd Downloads/
+ 1900  wget --retry-connrefused -c http://pub.mate-desktop.org/iso/ubuntu-mate/trusty/amd64/ubuntu-mate-14.04.2-LTS-desktop-amd64.iso
+ 1901  md5sum ubuntu-mate-14.04.2-LTS-desktop-amd64.iso 
+ 1902  md5sum clonezilla-live-2.4.2-10-amd64.iso 
+ 1903  sha256sum clonezilla-live-2.4.2-10-amd64.iso 
+ 1904  sudo gparted
+ 1905  sudo aptitude update && sudo aptitude full-upgrade 
+ 1906  ls -al
+ 1907  cd ..
+ 1908  sudo chown gonzalo:carmen usb1 -R
+ 1909  cd usb1/
+ 1910  ls -al
+ 1911  mkdir azul
+ 1912  mv four azul/
+ 1913  mv three azul/
+ 1914  mv two azul/
+ 1915  mkdir negro
+ 1916  cd negro/
+ 1917  ks
+ 1918  ls
+ 1919  mkdir uno
+ 1920  mkdir 
+ 1921  mkdir tres
+ 1922  mkdir cuatro
+ 1923  cp /media/gonzalo/uno /media/usb1/negro/uno/ -v
+ 1924  cp /media/gonzalo/uno /media/usb1/negro/uno/ -vR
+ 1925  time cp /media/usb1/* /media/gonzalo/ -R
+ 1926  time cp /media/usb1/* /media/gonzalo/dos/ -R
+ 1927  sudo chown gonzalo:carmen /media/gonzalo/dos -R
+ 1928  vim /etc/fstab
+ 1929  sudo ifconfig 
+ 1930  sudo sh /opt/chMac.sh 
+ 1931  cd Documents/magnasis/
+ 1932  cd registro_bueno/practicas15/
+ 1933  ls
+ 1934  git status 
+ 1935  git log --oneline 
+ 1936  git log
+ 1937  git checkout efe58e2a1bdb0ed361298e04209264fab7725343 controllers/student_controller.js
+ 1938  git log controllers/student_controller.js
+ 1939  git reset efe58e2a1bdb0ed361298e04209264fab7725343 controllers/student_controller.js
+ 1940  git status 
+ 1941  npm start 
+ 1942  cd ..
+ 1943  cd login_bueno/
+ 1944  ls
+ 1945  cd practicas15/
+ 1946  ls
+ 1947  npm start 
+ 1948  git pull 
+ 1949  git status 
+ 1950  git log 
+ 1951  ga .
+ 1952  gc
+ 1953  git pull 
+ 1954  npm start
+ 1955  git log controllers/student_controller.js
+ 1956  npm start
+ 1957  rm placeForMe.sqlite 
+ 1958  npm start
+ 1959  git log controllers/student_controller.js
+ 1960  git status 
+ 1961  git status
+ 1962  ls
+ 1963  git status 
+ 1964  git pull 
+ 1965  npm start
+ 1966  git log controllers/session_controller.js
+ 1967  git checkout 23f11a09931002b3817cb3d9363b864bf45eb814 controllers/session_controller.js
+ 1968  git status
+ 1969  cd ..
+ 1970  ls
+ 1971  rm login_bueno -R
+ 1972  sudo rm login_bueno -R
+ 1973  htop
+ 1974  cd ..
+ 1975  cd registro_bueno/
+ 1976  ls
+ 1977  cd practicas15/
+ 1978  ga .
+ 1979  gc
+ 1980  npm start
+ 1981  git pull 
+ 1982  git log
+ 1983  git checkout 64bed71de4c00fb9b3432030d9dddaa9456feaa7 controllers/student_controller.js
+ 1984  npm start
+ 1985  ls
+ 1986  rm placeForMe.sqlite 
+ 1987  npm start
+ 1988  git status 
+ 1989  gc
+ 1990  git status 
+ 1991  ga .
+ 1992  gc
+ 1993  git log controllers/student_controller.js
+ 1994  npm start
+ 1995  git pull 
+ 1996  gitcat /etc/rc.local 
+ 1997  cp /etc/rc.local .
+ 1998  for f in /sys/block/sd?/queue/scheduler; do printf "$f is "; cat $f; done
+ 1999  exit
+ 2000  ls
+ 2001  cp ~/.gitconfig .
+ 2002  cat .gitconfig 
+ 2003  history 
+ 2004  history > history.txt
