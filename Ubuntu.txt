@@ -1,0 +1,4 @@
+Mate: https://ubuntu-mate.org/trusty/index.html
+kubuntu: http://cdimage.ubuntu.com/kubuntu/releases/14.04.2/release/
+Gnome: http://cdimage.ubuntu.com/ubuntu-gnome/releases/14.04.2/release/
+unity: http://cdimage.ubuntu.com/releases/14.04/release/
