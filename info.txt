@@ -14,7 +14,7 @@ git
 7-zip
 Atom beautifier soporte python c++
 screenshot
-vim tuneado soporte python c++
+vim tuneado soporte python c++ (Y ponerlo como editor por defecto en vez de nano.)
 zsh tuneado
 sublime beautifier soporte python c++
 Firefox (adblock plus, 
@@ -35,3 +35,5 @@ gparted
 conky
 gddrescue
 nmap
+openssh
+sqlitebrowser
