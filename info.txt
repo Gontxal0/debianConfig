@@ -8,7 +8,7 @@ https://github.com/amix/vimrc
 https://github.com/robbyrussell/oh-my-zsh
 
 
-Lista Software:
+Lista Software: (Google/Gmail y todo en alemán)
 Pila Mean
 git
 7-zip
